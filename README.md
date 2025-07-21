@@ -1,1 +1,0 @@
-# VaultAI Starter Template
