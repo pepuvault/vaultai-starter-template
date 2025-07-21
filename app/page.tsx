@@ -1,1 +1,0 @@
-// Main app page component
