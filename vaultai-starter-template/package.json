@@ -1,1 +1,0 @@
-{"name": "vaultai", "scripts": {"dev": "next dev", "build": "next build"}}
